@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 📱 Flutter Developer with experience building cross-platform mobile applications.
 - 🔥 Developed real-time applications using Firebase Authentication and Cloud Firestore.
