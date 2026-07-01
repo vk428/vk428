@@ -43,6 +43,12 @@
 
 ---
 
+## 🏆 LeetCode Progress
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Komala_426?theme=dark&font=Encode%20Sans%20Expanded&ext=heatmap)
+
+---
+
 ## 🚀 Featured Projects
 
 ### 📚 Student Database Management System
@@ -86,11 +92,6 @@
 
 ---
 
-## 🏆 LeetCode Progress
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Komala_426?theme=dark&font=Encode%20Sans%20Expanded&ext=heatmap)
-
----
 
 ## 👀 Profile Views
 
